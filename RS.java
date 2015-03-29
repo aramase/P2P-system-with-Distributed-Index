@@ -3,10 +3,6 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- *
- * @author Lakshminarayan
- */
 public class RS {
 
     public static void main(String args[]) throws Exception 
