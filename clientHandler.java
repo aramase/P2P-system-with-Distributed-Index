@@ -18,10 +18,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.LinkedList;
 
-/**
- *
- * @author Lakshminarayan
- */
 class clientHandler extends Thread {
 	static class List{
 		String hostname;
